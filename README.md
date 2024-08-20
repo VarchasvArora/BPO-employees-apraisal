@@ -1,10 +1,10 @@
 # BPO-employees-apraisal
-PROJECT DETAILS
+### PROJECT DETAILS
 You are designated as an India HR head for an Indian subsidiary of a leading BPO organization. This subsidiary is based out of Pune and has a total manpower of 100+ employees. The subsidiary is in the first year of inception and you have been asked to initiate the quarterly (Apr-Jun 2019) performance appraisal of the 99 eligible employees in India subsidiary. These 99 employees include 51 girls and 48 boys.
 
 These 99 employees are working in 24*7 shifts across four industry verticals. Being a first time appraisal in Indian subsidiary, you have a key responsibility of setting up an effective appraisal process and building trust and transparency among the employees. The whole appraisal process needs to be completed within 7 days. You plan to launch the performance appraisal cycle w.e.f tomorrow 
 
-Introduction
+### Introduction
 The project aims to set up a reliable system for evaluating employee performance for an Indian 
 subsidiary of a leading BPO organization. This Pune-based subsidiary is newly formed and is only 
 a year old and now has more than a hundred people working there. Out of said 99 people, 51 
@@ -16,7 +16,7 @@ assessment criteria would be the number of tickets resolved, average resolution 
 of customer appreciation and escalations received in the quarter . This project will also evaluate 
 the workers according to their performance and compute the daily weighted average score.
  
-Methodology
+### Methodology
 To complete this project various steps were involved with each step utilizing the capabilities of 
 Excel.
 • Employee List Creation:
@@ -48,7 +48,8 @@ regarding Resolution time.
 • Employee Count in Each Project:
 The employees were divided into 4 projects and the COUNTIF function was utilized to 
 find the number of employees in each project.
-Proposed Timeline for Appraisal
+
+### Proposed Timeline for Appraisal
 Day 1 - Launch and Communication:
 ● Start of the appraisal process.
 ● Informing all the employees about said appraisal process.
@@ -74,7 +75,8 @@ through email or in-person meetings.
 Day 7 - Review and Feedback Collection:
 ● Collection of feedback from the employees about the appraisal process.
 ● Reviewing the feedback and identifying areas for improvement in the next appraisal cycle.
-Results
+
+### Results
 Over the course of our evaluation process , we have evaluated 99 employees of the Pune-based 
 subsidiary. During this appraisal cycle, the employees were ranked based on their average 
 resolution time , No. of tickets resolved and No. of client appreciation and escalations. For each 
@@ -86,7 +88,8 @@ Rankings were then assigned based on 1) Weighted Daily average score of No. of t
 Escalations. Then overall performance ranking was calculated based on the average of these 4 
 rankings.
 Descriptive statistics were also calculated which came out as follows: 
-Key Findings
+
+### Key Findings
 After the evaluation process we found that 9 employees were underperforming and 10 employees 
 were overperforming.The Employees Arman Diaz,River Russel, Ashley Alexander , Alice 
 Rogers,Addison Edwards,Willow Scott, Christopher Gayle,Jack Harris and Megumi Fushiguro 
@@ -99,7 +102,7 @@ overperforming and should be recognized and acknowledged by giving them a perfor
 to motivate them to keep their performance up.It is also crucial to understand the reason behind 
 their good performance and whether these can be replicated across the team
 
-Conclusion
+### Conclusion
 In summary, the performance appraisal process has yielded significant insights into the working 
 of employees. These observations may have the potential to increase individual and team 
 performance which will ultimately lead to more productivity which is going to be beneficial for 
