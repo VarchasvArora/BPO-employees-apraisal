@@ -53,25 +53,31 @@ find the number of employees in each project.
 Day 1 - Launch and Communication:
 ● Start of the appraisal process.
 ● Informing all the employees about said appraisal process.
+
 Day 2 - Data Collection:
 ● Collection of past performance data of all the employees which may include the number of 
 tickets resolved, average resolution time, and the number of client appreciations and 
 escalations.
+
 Day 3 - Data Entry and Validation:
 ● Entering the requested data into excel.
 ● Validate the data to ensure there are no errors or inconsistencies.
+
 Day 4 - Score Calculation:
 ● Calculate the Daily Weighted Average Score for the number of tickets and resolution time 
 using Excel.
 ● Rank the employees on Daily Average Score , No. of client Appreciations and No. of client 
 Escalations.
+
 Day 5 - Result Compilation:
 ● Compiling the result of the appraisal , including the overall performance ranking for each 
 employee.
+
 Day 6 - Result Communication:
 ● Communicate the appraisal results to each employee individually. This could be done 
 through email or in-person meetings.
 ● Providing feedback to each employee and discussing their performance.
+
 Day 7 - Review and Feedback Collection:
 ● Collection of feedback from the employees about the appraisal process.
 ● Reviewing the feedback and identifying areas for improvement in the next appraisal cycle.
